@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ADMA 2020 Conference</title>
+	<atom:link href="http://adma2019.neusoft.edu.cn/feed/" rel="self" type="application/rss+xml" />
+	<link>http://adma2019.neusoft.edu.cn</link>
+	<description>The 15Th International Conference on Advanced Data Mining and Applications(ADMA) On 21-23 November 2019 in Dalian, China</description>
+	<lastBuildDate>Tue, 19 Nov 2019 12:18:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+	<item>
+		<title>AI for social good</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/14/distinguished-professer-chengqi-zhang/</link>
+				<pubDate>Thu, 14 Nov 2019 07:55:45 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Keynote Speech]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=786</guid>
+				<description><![CDATA[Speaker: Distinguished Professor  Chengqi Zhang Associate Vice-President (Research Relationships China) University of Technology Sydney Chairperson of Australian Computer Society National Committee for AI General Chair of IJCAI-2024 The Title of Speech: AI for social good Abstract of Speech: AI has been successfully applied to everyday lives at an accelerating pace, and it has a great [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Speaker:</strong></p>
+
+
+
+<p>Distinguished Professor  Chengqi Zhang<gwmw style="display:none;"></p>
+
+
+
+<p>Associate Vice-President (Research Relationships China)<gwmw style="display:none;"></p>
+
+
+
+<p>University of Technology Sydney</p>
+
+
+
+<p>Chairperson of Australian Computer Society National
+Committee for AI</p>
+
+
+
+<p>General Chair of IJCAI-2024</p>
+
+
+
+<p><strong>The Title of Speech: <em>AI for social good</em> </strong></p>
+
+
+
+<p><strong>A</strong><strong>bstract of Speech:</strong><strong></strong></p>
+
+
+
+<p>AI has been successfully applied to everyday lives
+at an accelerating pace, and it has a great potential to provide tremendous
+social good in the future. In this talk, Prof Chengqi Zhang will introduce a
+brief history of AI , recent advances in AI, and the recent work that are using
+the forefront AI for social good, such as health, logistics, and agriculture.
+He will then talk about the potential use of AI in various topics that are
+essential for social good in the future. The new challenges raised around AI
+and ethics, AI and Humans will be discussed at the end.</p>
+
+
+
+<p><strong>Biography of the Speaker: <a></a></strong></p>
+
+
+
+<p>Distinguished Prof Chengqi Zhang is the Associate
+Vice President (Research Relationships China) at the University of Technology
+Sydney (UTS). He has been the Chairman of the Australian Computer Society
+National Committee for Artificial Intelligence since November 2005 till now.</p>
+
+
+
+<p>He is a worldwide recoginised research leader in the areas of data mining and machine learning. So far, a total of 342 papers have been published. He was invited to give 20 keynote speeches at international conferences. Thirty PhD students were instructed to complete their doctoral studies, and eight of them are now full professors. In 2011, he received the NSW Science and Engineering (Engineering and ICT) award and the award for UTS Vice Chancellor for Excellence in Research (Leadership). He served in the ARC College of Experts from 2012 to 2014.  Additionally, he had served as General Chair for three world top conferences, ICDM 2010, KDD 2015, and IJCAI 2024. </p>
+
+
+
+<figure class="wp-block-image"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/chengqizhang.jpg" alt="" class="wp-image-798" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/chengqizhang.jpg 361w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/chengqizhang-221x300.jpg 221w" sizes="(max-width: 361px) 100vw, 361px" /></figure>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Dr. Guojie Song: Network Representation Learning</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/dr-guojie-song-network-representation-learning/</link>
+				<pubDate>Mon, 11 Nov 2019 12:28:25 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=779</guid>
+				<description><![CDATA[Abstract:&#160;Feature engineering is one of the most important parts of machine learning task. As a most universal format of data existence, such as social network, information network etc, information networks have been widely studied within a broad scope of machine learning. Network Representation Learning (NRL) aims to project network nodes (or other entities) into a [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Abstract:</strong>&nbsp;Feature engineering is one of the most important parts of machine learning task. As a most universal format of data existence, such as social network, information network etc, information networks have been widely studied within a broad scope of machine learning. Network Representation Learning (NRL) aims to project network nodes (or other entities) into a low-dimensional vector space while preserving general proximity between nodes, and has become a hot topic in data mining and machine learning. In this talk, I will first overview the basic concepts of NRL, and give an introduction about our recent advancements in such field, such as tag embedding, domain adaptive network embedding, and landmark based network embedding etc.</p>
+
+
+
+<p><strong>Biography<gwmw class="ginger-module-highlighter-mistake-anim ginger-module-highlighter-mistake-type-3" id="gwmw-15734751943000774890458">：</gwmw></strong>Guojie Song is an associate professor in the School of Electronics Engineering and Computer Science at Peking University. His research interests mainly include data mining and machine learning on network data, such as social network analysis, transportation network analysis etc. He has published 100+ papers, and more than 50+ paper published at leading journals and conferences, including TKDE, TPDS, TITS, TKDD, AAAI, IJCAI, CIKM, ICDM etc. He served as PC member and Senior PC member of AI related top conferences. His research results have received three awards from ministry and provinces in China, such as the first prize of Science and Technology award of China Highway Society (2012, 2013) and the Second Prize of Shanxi Science and Technology Award (2012).</p>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<figure class="wp-block-image"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/Guojie-Song.jpg" alt="" class="wp-image-733"/></figure>
+
+
+
+<p><gwmw style="display:none;"></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Dr. Yong Xiang: Privacy Protection in Practical Applications</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/dr-yong-xiang-privacy-protection-in-practical-applications/</link>
+				<pubDate>Mon, 11 Nov 2019 12:26:58 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=777</guid>
+				<description><![CDATA[Presenter: Yong Xiang Abstract： Privacy protection is an emerging and important issue in modern information era. In this talk, I will first introduce the concept and background of privacy protection. Then I will outline the potential research themes in the area of privacy protection. After that, more details about these research themes will be presented in [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Presenter: </strong>Yong Xiang<gwmw style="display:none;"></p>
+
+
+
+<p><strong>Abstract：</strong></p>
+
+
+
+<p>Privacy protection is an emerging and important issue in modern information era. In this talk, I will first introduce the concept and background of privacy protection. Then I will outline the potential research themes in the area of privacy protection. After that, more details about these research themes will be presented in relation to some practical applications, including privacy protection in biometric authentication systems, Internet of Things, and big data. Current challenges and future research will also be discussed along these research themes.&nbsp;</p>
+
+
+
+<p><strong>Bio：</strong></p>
+
+
+
+<p>Yong Xiang is a Professor at the School of Information Technology, Deakin University, Australia. He is also the Director of Deakin-Southwest University (SWU) Joint Research Centre on Big Data, the Director of Data to Intelligence Research Centre, and the Director of Deakin Blockchain Innovation Lab. He was the Associate Head of School (Research) (2013-2018) and the Director of Artificial Intelligence and Data Analytics Research Cluster (2013-2019). He has obtained many research grants, including 5 Discovery and Linkage grants from the Australian Research Council (ARC). He has published 5 monographs, over 130 refereed journal articles (mainly in IEEE journals), and numerous conference papers. Some of his research results have been commercialised. His current research interests include information security and privacy, signal and image processing, data analytics and machine intelligence, Internet of Things, and blockchain. Professor Xiang was a member of the ARC Research Evaluation Committee (Mathematics, Information and Computing Sciences), evaluating the Excellence in Research for Australia (ERA) in 2018. He is a Senior Area Editor of IEEE Signal Processing Letters and an Associate Editor of IEEE Access. He was an Associate Editor of IEEE Signal Processing Letters. He served as Guest Editor for several journals, such as <a>IEEE Transactions on Industrial Informatics, IEEE Multimedia Magazine, </a>etc. He has been invited to give keynote speeches and chair committees in many international conferences, review papers for numerous international journals and conferences, chair technical sessions in conferences, and assess grant applications for the ARC. Professor Xiang is a senior member of the IEEE.</p>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<figure class="wp-block-image"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/yong-xiang.jpg" alt="" class="wp-image-688" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/yong-xiang.jpg 332w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/yong-xiang-262x300.jpg 262w" sizes="(max-width: 332px) 100vw, 332px" /></figure>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Dr. Senzhang Wang: AI Empowered Spatio-Temporal Data Mining for Smart City: Challenges, Solutions, and Applications</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/dr-senzhang-wang-ai-empowered-spatio-temporal-data-mining-for-smart-city-challenges-solutions-and-applications/</link>
+				<pubDate>Mon, 11 Nov 2019 12:26:06 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=775</guid>
+				<description><![CDATA[Abstract: With the fast development of various positioning techniques such as Global Position System (GPS), mobile devices and remote sensing, spatio-temporal data generated in urban areas has become increasingly available nowadays. Mining valuable knowledge from spatio-temporal data is critically important for better design of smart city applications, such as human mobility monitoring, smart transportation, urban [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Abstract:</strong></p>
+
+
+
+<p>With the fast development of various positioning techniques such as Global Position System (GPS), mobile devices and remote sensing, spatio-temporal data generated in urban areas has become increasingly available nowadays. Mining valuable knowledge from spatio-temporal data is critically important for better design of smart city applications, such as human mobility monitoring, smart transportation, urban planning, public safety, and environmental management. As the number, volume and resolution of spatio-temporal datasets increase rapidly, traditional data mining methods, especially statistics-based methods for dealing with such data are becoming overwhelmed. Recently, with the great success of AI techniques, especially deep learning methods, various AI techniques have been widely applied in analyzing rich spatio-temporal data generated in urban areas. In this tutorial, I will present our recent research on AI empowered spatio-temporal data mining. First, I will introduce the new challenges and opportunities of applying AI techniques to address various spatio-temporal data mining tasks in general. Then I will summarize a general framework to show the pipeline of AI empowered spatio-temporal data mining, followed by several examples illustrating how AI techniques including both shallow models and deep learning models can be utilized in the applications of demand-supply prediction in on-demand services, urban traffic prediction and urban crowd flow prediction. Finally, I will conclude the limitations of current research and point out future research directions.</p>
+
+
+
+<p><strong>About the speaker:</strong></p>
+
+
+
+<p>Dr. Senzhang Wang is currently an associate professor at College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, and also a “Hong Kong Scholar” Postdoc Fellow at Department of Computing, The Hong Kong Polytechnic University. His main research focus is on spatio-temporal data mining, social computing, graph mining and smart city. He has published more than 60 papers in premier conferences and journals of related areas such as KDD, TKDE, ICDM, SDM, AAAI, IJCAI, CIKM, TOIS, KAIS, etc.</p>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<figure class="wp-block-image"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/王.jpg" alt="" class="wp-image-705" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/王.jpg 307w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/王-211x300.jpg 211w" sizes="(max-width: 307px) 100vw, 307px" /></figure>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Dr. Fuzhen Zhuang:The Research on Transfer Learning</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/dr-fuzhen-zhuangthe-research-on-transfer-learning/</link>
+				<pubDate>Mon, 11 Nov 2019 12:24:37 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=773</guid>
+				<description><![CDATA[Abstract:&#160;To achieve satisfying classification performance, traditional machine learning (TML) usually assumes that there are abundant labeled data with i.i.d. distribution to train a good model. However, there always lacks of labeled data and are expensive to annotate data, thus TML may fail. Fortunately, there may exist large amount of labeled data from related source domains [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Abstract:</strong>&nbsp;To achieve satisfying classification performance, traditional machine learning (TML) usually assumes that there are abundant labeled data with i.i.d. distribution to train a good model. However, there always lacks of labeled data and are expensive to annotate data, thus TML may fail. Fortunately, there may exist large amount of labeled data from related source domains but with different distributions. Along this line, Transfer Learning (TL) is proposed to adapt the knowledge from related domain to improving the performance in target domains. In this talk, I will overview the concepts of transfer learning, and recent studies of transfer learning. Then, I will introduce our efforts made on the research on transfer learning algorithms. Finally, some possible future research directions are pointed out.</p>
+
+
+
+<p><strong>Resume:</strong></p>
+
+
+
+<p>Fuzhen Zhuang is an associate professor in the Institute of Computing Technology, Chinese Academy of Sciences. His research interests include transfer learning, multi-task learning and recommendation systems. He has published more 70 papers in some prestigious refereed journals and conference proceedings, such as IEEE TKDE, IEEE TNNLS, IEEE Trans. on Cybernetics, ACM TIST, Information Sciences, Neural Networks, KDD, IJCAI, AAAI, WWW, ICDE, ACM CIKM, ACM WSDM, SIAM SDM and IEEE ICDM.<gwmw style="display:none;"></p>
+
+
+
+<figure class="wp-block-image is-resized"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/639f9fb6eb293439bd72d98ab81cb6ae-771x1024.jpg" alt="" class="wp-image-702" width="386" height="512" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/639f9fb6eb293439bd72d98ab81cb6ae-771x1024.jpg 771w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/639f9fb6eb293439bd72d98ab81cb6ae-226x300.jpg 226w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/639f9fb6eb293439bd72d98ab81cb6ae-768x1020.jpg 768w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/639f9fb6eb293439bd72d98ab81cb6ae.jpg 800w" sizes="(max-width: 386px) 100vw, 386px" /></figure>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Dr. Ming Zhong: An Introduction to Big Graph Analytics Approaches and Applications</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/dr-ming-zhong-an-introduction-to-big-graph-analytics-approaches-and-applications/</link>
+				<pubDate>Mon, 11 Nov 2019 12:23:11 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=771</guid>
+				<description><![CDATA[Abstract:&#160;Graph analytics, especially for the big graphs with billions of nodes and edges, is an exciting new area for big data analytics workloads. It has drawn enormous research interests, not only because many complicated real-world big data, such as social data, financial data, transportation data, crime data, biological data, etc., can be modeled as graphs, [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Abstract:</strong>&nbsp;Graph analytics, especially for the big graphs with billions of nodes and edges, is an exciting new area for big data analytics workloads. It has drawn enormous research interests, not only because many complicated real-world big data, such as social data, financial data, transportation data, crime data, biological data, etc., can be modeled as graphs, but also because the graph analytics can reveal underlying patterns in these data from the perspective of relationship or topology. In this tutorial, I will review the recent work of my group in both academic research and industrial application, including&nbsp;geo-social network analytics, diversified service composition based on graphs, attributed network embedding, and financial graph analytics.</p>
+
+
+
+<p><strong>Biography:&nbsp;</strong>Dr. Ming Zhong is currently an associate professor at School of Computer Science, Wuhan University, and is the deputy director of Hubei Provincial Engineering Research Center in Public Finance and&nbsp;Economy&nbsp;Big Data. He received his PhD and BD in Computer Science from Wuhan University, and worked at New York State University at Stony Brook, USA and Carleton University, Canada as visiting research fellow. His research interests include big data analytics, graph analytics,&nbsp;fintech, etc. He published over thirty research papers&nbsp;of&nbsp;the related topics, and was funded by NSFC, NSF of Hubei Province, Doctoral Fund of Ministry of Education, etc.</p>
+
+
+
+<figure class="wp-block-image"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/mingzhong.jpg" alt="" class="wp-image-719" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/mingzhong.jpg 286w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/mingzhong-206x300.jpg 206w" sizes="(max-width: 286px) 100vw, 286px" /></figure>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Dr. Chang-Dong Wang: Higher-Order Community Detection</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/dr-chang-dong-wang-higher-order-community-detection/</link>
+				<pubDate>Mon, 11 Nov 2019 12:22:07 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=769</guid>
+				<description><![CDATA[Abstract: Higher-order community detection has gained an increasing amount of attention in the past few years. In this tutorial, we will first introduce the definition of higher-order community detection, the existing approaches, and the advantages compared with the lower-order community detection approaches. Then, we will introduce some recent approaches for higher-order community detection, including the [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Abstract</strong>: Higher-order community detection has gained an increasing amount of attention in the past few years. In this tutorial, we will first introduce the definition of higher-order community detection, the existing approaches, and the advantages compared with the lower-order community detection approaches. Then, we will introduce some recent approaches for higher-order community detection, including the edge enhancement approach for overcoming the hypergraph fragmentation issue, and the harmonic motif modularity approach for multi-layer network community detection. Finally, we will briefly make a discussion on the challenges to be addressed in the future work.</p>
+
+
+
+<p><strong>Bio</strong>:</p>
+
+
+
+<p>Chang-Dong Wang received the Ph.D. degree in computer science in 2013 from Sun Yat-sen University, Guangzhou, China. He is a visiting student at University of Illinois at Chicago from Jan. 2012 to Nov. 2012. He joined Sun Yat-sen University in 2013 as an assistant professor with School of Mobile Information Engineering and now he is currently an associate professor with School of Data and Computer Science. His current research interests include machine learning and data mining. He has published over 100 scientific papers in international journals and conferences such as IEEE TPAMI, IEEE TKDE, IEEE TCYB, IEEE TNNLS, IEEE TSMC-C, IEEE/ACM TCBB, Pattern Recognition, KAIS, KDD, AAAI, IJCAI, CVPR, ICDM, CIKM, SDM, DASFAA and BIBM. His ICDM 2010 paper won the Honorable Mention for Best Research Paper Awards. He won 2012 Microsoft Research Fellowship Nomination Award. He was awarded 2015 Chinese Association for Artificial Intelligence (CAAI) Outstanding Dissertation. He is an Associate Editor in Journal of Artificial Intelligence Research (JAIR).<gwmw style="display:none;"></p>
+
+
+
+<figure class="wp-block-image is-resized"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/Chang-Dong-Wang_副本-740x1024.jpg" alt="" class="wp-image-724" width="370" height="512" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/Chang-Dong-Wang_副本-740x1024.jpg 740w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/Chang-Dong-Wang_副本-217x300.jpg 217w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/Chang-Dong-Wang_副本-768x1062.jpg 768w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/Chang-Dong-Wang_副本.jpg 1446w" sizes="(max-width: 370px) 100vw, 370px" /></figure>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>ADMA2019 Program</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/adma2019-program/</link>
+				<pubDate>Mon, 11 Nov 2019 06:14:27 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Program]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=758</guid>
+				<description><![CDATA[The 15th International Conference on Advanced Data Mining and Applications ADMA2019 Program. This is the last version:]]></description>
+								<content:encoded><![CDATA[
+<p>The 15th International Conference on Advanced Data Mining and Applications ADMA2019 Program.</p>
+
+
+
+<p>This is the last version:</p>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<div class="wp-block-file"><a href="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/ADMA-2019-Program_V6.0.pdf">ADMA 2020 Program_V6.0</a><a href="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/ADMA-2019-Program_V6.0.pdf" class="wp-block-file__button" download>Download</a></div>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<p><gwmw style="display:none;"><gwmw style="display:none;"></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Big Data 2.0: Future Data Computing</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/10/28/big-data-2-0-future-data-computing-2/</link>
+				<pubDate>Mon, 28 Oct 2019 00:44:46 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Keynote Speech]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=684</guid>
+				<description><![CDATA[Guoren Wang, Beijing Institute Of Technology,China Human beings are moving from the IT era to the DT (data technology) era in which data is the most valuable resource. In terms of Big Data computing, the mainstream computing systems of Big Data represented by Hadoop, Spark and Flink have different programming models and interfaces, which focus [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p> Guoren Wang, Beijing Institute Of Technology<gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15722233625936670522727">,</gwmw>China </p>
+
+
+
+<p>Human beings are moving from the IT era to the DT (data technology) era in which data is the most valuable resource. In terms of Big Data computing, the mainstream computing systems of Big Data represented by Hadoop, Spark and Flink have different programming models and interfaces, which focus on batch or stream tasks respectively. With the development of mobile internet, the traditional cloud computing model has been unable to effectively promote the development of new applications such as smart homes and smart cities. Therefore, mixed batch &amp; stream processing, cross-domain deployments and edge computing will be the development and research trends of the future big data computing.<br>In this talk, we will first review the traditional big data computing platforms, and introduce their development history, characteristics, advantages and core issues. We then will analyze the challenges and difficulties faced by the traditional cloud computing models from the aspects of batch &amp; stream interactive computing, cross-data center computing and mobile edge computing. We finally propose the development and research trends for future data computing under the era of Big Data 2.0.<gwmw style="display:none;"></p>
+
+
+
+<p>Bio: Guoren Wang is currently a professor at Beijing Institute of Technology, a Yangtze River scholar, a recipient of the National Science Fund for Distinguished Young Scholars, a member of the expert review team of the Information Science Department of the National Natural Science Foundation of China, and a vice chair of the Database Technical Committee of the China Computer Federation. Selected as a national candidate for the National Million Talents Project, awarded the honorary title of “Young and Middle-aged Experts with Outstanding Contributions”; Received a total of 10 provincial and ministerial science and technology awards, including the Second Prize of National Science and Technology Progress Award, the First Prize of Science and Technology Progress of Liaoning Province, the Second Prize of Natural Science of Ministry of Education, and the Second Prize of Nature Science of Liaoning Province. His doctoral students won 2 national outstanding paper nomination awards, 2 outstanding doctoral theses in Liaoning Province, and 1 excellent paper of China Computer Federation; the research field is big data management and analysis; and more than 80 papers has been published in important academic conferences and journals such as SIGMOD, VLDB, ICDE, VLDB Journal, IEEE Trans. TKDE and IEEE Trans. TPDS.</p>
+
+
+
+<figure class="wp-block-image is-resized"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/09/wangguoren.jpg" alt="" class="wp-image-658" width="388" height="602" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/09/wangguoren.jpg 500w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/09/wangguoren-193x300.jpg 193w" sizes="(max-width: 388px) 100vw, 388px" /></figure>
+
+
+
+<p><gwmw style="display:none;"></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Broad and Deep Learning of Big Heterogeneous Health Data for Medical AI</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/10/28/broad-and-deep-learning-of-big-heterogeneous-health-data-for-medical-ai/</link>
+				<pubDate>Mon, 28 Oct 2019 00:27:24 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Keynote Speech]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=677</guid>
+				<description><![CDATA[Speaker: Vincent S. Tseng (National Chiao Tung University, Taiwan) Abstract In healthcare domains, large-scale heterogeneous types of data like medical images, vital signs, electronic health records (EHR), genome, etc., have been collected constantly, forming the valuable big health data. Broad and deep mining/learning of these big heterogeneous biomedical data can enable innovative Medical AI applications [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Speaker: Vincent S. Tseng (National Chiao Tung University, Taiwan)<gwmw style="display:none;"></p>
+
+
+
+<p><strong>Abstract</strong></p>
+
+
+
+<p>In healthcare
+domains, large-scale heterogeneous types of data like medical images, vital signs,
+electronic health records (EHR), genome, etc., have been collected constantly,
+forming the valuable big health data. Broad and deep mining/learning of these big heterogeneous biomedical
+data can enable innovative Medical AI applications with rich research lines/challenges
+underlying. In this talk, I will introduce recent developments and ongoing
+projects on the above topic, especially in intelligent diagnostic decision
+support and disease early detection by using various advanced data mining/deep
+learning techniques including image analysis (for medical images), multivariate
+time-series analysis (for vital signs like ECG/EEG), patterns mining (for EHR),
+text mining (for medical notes), sensory analysis (for sensory data like air
+pollutants) as well as data fusion methods for integrated modeling. Some
+innovative applications on Medical AI with breakthrough results based on the
+developed techniques, as well as the underlying challenging issues and open
+opportunities, will also be addressed.</p>
+
+
+
+<p><strong>Speaker BioVincent S. Tseng</strong> is currently a Distinguished Professor at Department of Computer Science and Director for Institute of Data Science and Engineering in National Chiao Tung University, Taiwan. He was the Chair for IEEE Computational Intelligence Society Tainan Chapter during 2013-2015 and the President of Taiwanese Association for Artificial Intelligence during 2011-2012. Dr. Tseng has a wide variety of research interests covering data mining, machine learning, biomedical informatics, mobile sensing technologies. He has published more than 350 research papers as well as 15 patents held and filed. He has been on the editorial board for a number of top journals like IEEE Trans. Knowledge and Engineering (TKDE), IEEE Journal on Biomedical and Health Informatics (JBHI), ACM Trans. Knowledge Discovery from Data (TKDD), Data Mining and Knowledge Discovery (DMKD), and serving as organizing/program committee for leading conferences like KDD, ICDM, CIKM, PAKDD, AAAI, etc. He   the core committee and overseeing the directions/architecture of big data/AI platforms and interdisciplinary applications for various governmental and industrial units in Taiwan. He is a Distinguished Scientist Member of ACM and Senior Member of IEEE, as well as the recipient of 2014 K. T. Li Breakthrough Award, 2018 IT Elite Award, 2015 Outstanding Research Award and 2018 FutureTech Breakthrough Award by Ministry of . </p>
+
+
+
+<figure class="wp-block-image"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/mmexport1572130510587.jpg" alt="" class="wp-image-680" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/mmexport1572130510587.jpg 467w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/mmexport1572130510587-225x300.jpg 225w" sizes="(max-width: 467px) 100vw, 467px" /></figure>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<figure class="wp-block-image"><img alt=""/></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="blob:http://adma2019.neusoft.edu.cn/c032263b-7725-4971-9eba-88c966281989" alt=""/><figcaption><gwmw style="display:none;"></figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p><gwmw style="display:none;"></p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

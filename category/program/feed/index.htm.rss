@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Program &#8211; ADMA 2020 Conference</title>
+	<atom:link href="http://adma2019.neusoft.edu.cn/category/program/feed/" rel="self" type="application/rss+xml" />
+	<link>http://adma2019.neusoft.edu.cn</link>
+	<description>The 15Th International Conference on Advanced Data Mining and Applications(ADMA) On 21-23 November 2019 in Dalian, China</description>
+	<lastBuildDate>Tue, 19 Nov 2019 12:18:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+	<item>
+		<title>ADMA2019 Program</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/adma2019-program/</link>
+				<pubDate>Mon, 11 Nov 2019 06:14:27 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Program]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=758</guid>
+				<description><![CDATA[The 15th International Conference on Advanced Data Mining and Applications ADMA2019 Program. This is the last version:]]></description>
+								<content:encoded><![CDATA[
+<p>The 15th International Conference on Advanced Data Mining and Applications ADMA2019 Program.</p>
+
+
+
+<p>This is the last version:</p>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<div class="wp-block-file"><a href="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/ADMA-2019-Program_V6.0.pdf">ADMA 2020 Program_V6.0</a><a href="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/ADMA-2019-Program_V6.0.pdf" class="wp-block-file__button" download>Download</a></div>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<p><gwmw style="display:none;"><gwmw style="display:none;"></p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

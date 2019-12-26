@@ -1,0 +1,204 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<!-- Copied from http://adma2019.neusoft.edu.cn/admareg/index.ftl by Cyotek WebCopy 1.7.0.600, 2019年12月 星期日, 12:05:08 -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>ADMA 2020</title>
+    <link rel="stylesheet" href="vendors/zui/css/zui.min.css">
+    <link rel="stylesheet" href="vendors/zui/lib/datetimepicker/datetimepicker.min.css">
+    <link rel="stylesheet" href="vendors/bootstrap-select/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="vendors/formvalidation/css/formValidation.min.css">
+    <link rel="stylesheet" href="vendors/formvalidation/css/formValidation.zui.css">
+    <link rel="stylesheet" href="vendors/app/app.css.ftl.css?vendors=jquery%7Czui%7Czui.lib.datetimepicker%7Czui.lib.clipboard%7Cbootstrap-select%7Cjquery.form%7Cformvalidation">
+
+</head>
+<body>
+
+
+<div class="container-fixed-md" style="margin-bottom:20px">
+    <div class="row" style="border-bottom:1px solid #333">
+        <div class="col-xs-6"><a href="index.ftl.html"><img src="images/logo.png" alt=""></a></div>
+        <div class="col-xs-6 text-right">
+            <h1 style="margin-top:10px"><a href="../index.htm">ADMA 2020</a></h1>
+            <p>The 15Th International Conference on Advanced Data Mining and Applications On 21-23 November 2019 in Dalian, China</p>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fixed-md">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="panel panel-danger">
+                <div class="panel-heading">
+                    <strong>
+                        New Registration
+                    </strong>
+                </div>
+                <div class="panel-body">
+                    <div style="padding:50px 20px">We're sorry to inform you that conference registration website has been closed. Please register on site at Hichance Hotel on November 20, 2019. Thanks for your cooperation.</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6" style="display: none">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <strong>
+                        Login
+                    </strong>
+                </div>
+                <div class="panel-body">
+                    <script>
+                        function loginSuccess() {
+                            var url = "";
+                            if (!url) {
+                                location.href = "/admareg/person/person_index.ftl";
+                            } else {
+                                location.href = "/admareg" + url;
+                            }
+                        }
+                    </script>
+                    <form id="loginForm" class="form-horizontal" action="/admareg/user/login.jsp">
+                        <div class="form-group">
+                            <label class="col-xs-4 required">Login ID</label>
+                            <div class="col-xs-7">
+                                <input class="form-control" required="required" name="username" type="text" value="">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-xs-4 required">Password</label>
+                            <div class="col-xs-7">
+                                <input class="form-control" required="required" name="passwd" type="password" value="">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-xs-4 "></label>
+                            <div class="col-xs-7">
+                                <input class="btn btn-primary" type="submit" value="Login">
+                            </div>
+                        </div>
+                    </form>
+                    <div class="text-right">Forgot your ID or password? Click
+                        <a href="register/forgot.ftl.html" data-toggle="modal" data-size="lg" data-title="ID Inquiry or Reissue of Password">Here</a>.
+                    </div>
+                </div>
+            </div>
+        </div di dis>
+    </div>
+    <hr>
+    <h3>MEETING FEES (TIME ZONE: China standard time, UTC+08:00)</h3>
+    <p>Full registration fee</p>
+    <p>US$550/RMB¥3800 per person</p>
+    <p>You can pay in cash (RMB), credit card, WeChat or Alipay at registration site on November 20, 2019.</p>
+    <br>
+    <h4>Full registration fee includes:</h4>
+    <table class="table table-bordered table-condensed">
+        <thead>
+        <tr>
+            <th>DATE</th>
+            <th>AGENDA</th>
+            <th>COMMENTS</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Wednesday November 20</td>
+            <td>Meeting materials package</td>
+            <td>Meeting guidance, Delegates card, and meal vouches</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Thursday November 21</td>
+            <td>Morning: Shuttle buses</td>
+            <td>From hotel to meeting venue</td>
+        </tr>
+        <tr>
+            <td>Meeting, Lunch and tea time</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Evening: Dinner, Shuttle Buses</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="3">Friday November 22</td>
+            <td>Morning: Shuttle Buses</td>
+            <td>From hotel to meeting venue</td>
+        </tr>
+        <tr>
+            <td>Meeting, lunch and tea time</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Evening: Dinner</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="2">Saturday November 23</td>
+            <td>Morning: Shuttle buses</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Meeting, Lunch and tea time</td>
+            <td></td>
+        </tr>
+        </tbody>
+    </table>
+
+    <p><b>Hotel Information:</b></p>
+    <p>
+        Hi Chance (Dalian) Science & Technology Center 海创大连科技交流中心<br>
+        Hotel Address: No. 507, Huangpu Road, Hi-tech Industrial Zone, Dalian City, Liaoning Province<br>
+        Hotel Tel: +86 411 62620777<br>
+    </p>
+
+    <p>Accommodation cost is not included in the registration fee.</p>
+
+    <p>Hotel booking will be supported in the process of registration.</p>
+
+    <br>
+    <p><b>Any more question, please do not hesitate to contact <a href="mailto:adma2019@neusoft.edu.cn">adma2019@neusoft.edu.cn</a></b></p>
+</div>
+
+
+<button id="copyCodeBtn" data-html="true" data-animation="false" data-toggle="tooltip" data-title="复制" type="button" class="btn btn-copy-code" data-tip-id="copyCodeTip" data-placement="left"><i class="icon icon-copy"></i></button>
+<script src="vendors/jquery/jquery-1.12.4.min.js"></script>
+<script src="vendors/zui/js/zui.min.js"></script>
+<script src="vendors/zui/lib/datetimepicker/datetimepicker.min.js"></script>
+<script src="vendors/zui/lib/clipboard/clipboard.min.js"></script>
+<script src="vendors/bootstrap-select/js/bootstrap-select.min.js"></script>
+<script src="vendors/jquery.form/jquery.form.min.js"></script>
+<script src="vendors/formvalidation/js/formValidation.min.js"></script>
+<script src="vendors/formvalidation/js/formValidation.zui.js"></script>
+<script src="vendors/formvalidation/js/language/en_US.js"></script>
+<script src="vendors/app/app.js.ftl.js?vendors=jquery%7Czui%7Czui.lib.datetimepicker%7Czui.lib.clipboard%7Cbootstrap-select%7Cjquery.form%7Cformvalidation"></script>
+
+<script>
+    //Ready Script 1
+    $("#loginForm").formValidation({
+        framework: 'zui'
+        , err: {
+            container: "tooltip"
+        }
+    })
+
+        .on('err.field.fv', function (e, data) {
+            if (data.fv.getSubmitButton()) {
+                data.fv.disableSubmitButtons(false);
+            }
+        })
+        .on('success.field.fv', function (e, data) {
+            if (data.fv.getSubmitButton()) {
+                data.fv.disableSubmitButtons(false);
+            }
+        })
+
+        .on('success.form.fv', function (e) {
+            e.preventDefault();
+            formAjaxSubmit(e.target, null, loginSuccess);
+        });
+
+</script>
+</body>
+<!-- Copied from http://adma2019.neusoft.edu.cn/admareg/index.ftl by Cyotek WebCopy 1.7.0.600, 2019年12月 星期日, 12:05:08 -->
+</html>

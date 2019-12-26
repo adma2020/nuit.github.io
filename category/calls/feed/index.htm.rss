@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Calls &#8211; ADMA 2020 Conference</title>
+	<atom:link href="http://adma2019.neusoft.edu.cn/category/calls/feed/" rel="self" type="application/rss+xml" />
+	<link>http://adma2019.neusoft.edu.cn</link>
+	<description>The 15Th International Conference on Advanced Data Mining and Applications(ADMA) On 21-23 November 2019 in Dalian, China</description>
+	<lastBuildDate>Sun, 10 Nov 2019 23:43:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+	<item>
+		<title>Key Dates</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/02/16/key-dates/</link>
+				<pubDate>Sat, 16 Feb 2019 03:04:58 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Calls]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=322</guid>
+				<description><![CDATA[Important Deadlines Full paper submission due:&#160; 26 May, 2019 Demo proposal submission due: 1 July, 2019 Acceptance notification:&#160; 1 August, 2019 Camera-ready due:&#160; 15 August, 2019 Author registration due:&#160; 30 October, 2019 Early bird registration due:&#160; 1 October, 2019 Conference time:&#160; &#160;21-23 November, 2019 Workshop date: 24 November 2019]]></description>
+								<content:encoded><![CDATA[<p><strong>Important Deadlines</strong></p>
+
+
+<p>Full paper submission  due:&nbsp; 26 May, 2019 </p>
+
+
+
+<p>Demo proposal submission due: 1 July, 2019</p>
+
+
+
+<p>Acceptance notification:&nbsp; 1 August, 2019</p>
+
+
+
+<p>Camera-ready due:&nbsp; 15 August, 2019</p>
+
+
+
+<p>Author registration due:&nbsp; 30 October, 2019</p>
+
+
+
+<p>Early bird registration due:&nbsp; 1 October, 2019</p>
+
+
+
+<p>Conference time:&nbsp; &nbsp;21-23 November, 2019</p>
+
+
+
+<p>Workshop date: 24 November 2019<gwmw style="display:none;"><gwmw style="display:none;"></gwmw></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>DATA MINING TOPICS</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/01/28/%e8%84%9a%e6%b3%a8%e9%a1%b5%e9%9d%a2/</link>
+				<pubDate>Mon, 28 Jan 2019 11:05:44 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Calls]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=155</guid>
+				<description><![CDATA[DATA MINING TOPICS We invite authors to submit papers on topics of data mining and applications, including but not limited to 1. Data mining foundations; 2. Grand challenges of data mining; 3. Parallel and distributed data mining algorithms; 4. Mining on data&#160; streams; 5. Graph mining; 6. Spatial data mining; 7. Text, video, multimedia data [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><strong>DATA MINING TOPICS</strong><br />
+We invite authors to submit papers on topics of data mining and applications, including but not limited to<br />
+1. Data mining foundations;<br />
+2. Grand challenges of data mining;<br />
+3. Parallel and distributed data mining algorithms;<br />
+4. Mining on data&nbsp; streams;<br />
+5. Graph mining;<br />
+6. Spatial data mining;<br />
+7. Text, video, multimedia data mining;<br />
+8. Web mining; High performance data mining algorithms;<br />
+9. Correlation mining;<br />
+10. Benchmarking and evaluations;<br />
+11. Interactive data mining;<br />
+12. Data-mining-ready structures and pre-processing;<br />
+13. Data mining visualization;<br />
+14. Information hiding in data mining;<br />
+15. Security and privacy issues;<br />
+16. Competitive analysis of mining algorithms;<br />
+17. Internet of Things mining;<br />
+18. Personalization and recommendation systems;</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

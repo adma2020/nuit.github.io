@@ -1,0 +1,57 @@
+.form-inline.fv-form-zui .form-group {
+  vertical-align: top;
+}
+
+.fv-form-zui .fv-control-feedback {
+  top: 0;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+}
+
+.fv-form-zui.form-condensed .fv-control-feedback {
+  top: 0;
+  width: 24px;
+  height: 24px;
+  line-height: 24px;
+}
+
+.fv-form-zui .help-block {
+  margin-bottom: 0;
+}
+
+.fv-form-zui .fv-zui-icon-input-group {
+  z-index: 100;
+}
+
+.fv-form-zui label~.fv-control-feedback {
+  top: 25px;
+}
+
+.fv-form-zui.form-condensed label~.fv-control-feedback {
+  top: 25px;
+}
+
+.fv-form-zui.form-horizontal .fv-control-feedback {
+  top: 0;
+  right: 8px;
+}
+
+.fv-form-zui.form-horizontal.form-condensed .fv-control-feedback {
+  top: 0;
+  right: 10px;
+}
+
+.fv-form-zui:not(.form-horizontal) label.sr-only~.fv-control-feedback {
+  top: 0;
+}
+
+.fv-form-zui .has-error label,
+.fv-form-zui .has-error .fv-control-feedback {
+  color: #ea644a;
+}
+
+.fv-form-zui .has-success label,
+.fv-form-zui .has-success .fv-control-feedback {
+  color: #38b03f;
+}

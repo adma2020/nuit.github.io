@@ -1,0 +1,123 @@
+
+<!-- Copied from http://adma2019.neusoft.edu.cn/admareg/register/forgot.ftl by Cyotek WebCopy 1.7.0.600, 2019?12? ???, 12:05:08 -->  <div class="panel ">
+      <div class="panel-heading">
+        <strong>
+          ID Inquiry
+        </strong>
+      </div>
+      <div class="panel-body">
+  <div class="row">
+    <div class="col-xs-6">
+      <ul>
+        <li>Enter the email address you used when you registered and click on the ID Inquiry button.</li>
+        <li>Your Login ID will be sent to the registered email address.</li>
+        <li>Only a representative can make an ID inquiry.</li>
+        <li>Registered users can retrieve their login accounts through the E-mail address they filled in when registering.</li>
+      </ul>
+    </div>
+    <div class="col-xs-6" style="border-left:1px solid #CCC">
+  <form id="idform" class="form-horizontal" action="/admareg/register/reg_action.ftl">
+        <input type="hidden" name="action" value="findUserName">
+  <div class="form-group">
+      <label class="col-xs-4 required">E-mail</label>
+    <div class="col-xs-7">
+        <input class="form-control" required="required" name="email" type="email" value="">
+    </div>
+  </div>
+  <div class="form-group">
+      <label class="col-xs-4 "></label>
+    <div class="col-xs-7">
+        <input class="btn btn-primary" type="submit" value="ID Inquiry">
+    </div>
+  </div>
+  </form>
+    <script>
+      $("#idform").formValidation({
+        framework: 'zui'
+      })
+
+      .on('err.field.fv', function (e, data) {
+        if (data.fv.getSubmitButton()) {
+          data.fv.disableSubmitButtons(false);
+        }
+      })
+      .on('success.field.fv', function (e, data) {
+        if (data.fv.getSubmitButton()) {
+          data.fv.disableSubmitButtons(false);
+        }
+      })
+
+        .on('success.form.fv', function(e) {
+          e.preventDefault();
+          formAjaxSubmit(e.target, null, null);
+        });
+    </script>
+    </div>
+  </div>
+      </div>
+  </div>
+
+  <div class="panel ">
+      <div class="panel-heading">
+        <strong>
+          Password Reissue
+        </strong>
+      </div>
+      <div class="panel-body">
+  <div class="row">
+    <div class="col-xs-6">
+      <ul>
+        <li>Enter the email address and Login ID you used when you registered and click on the Password Reissue button.</li>
+        <li>A temporary password will be sent to the registered email address.</li>
+        <li>Only a representative can have a password reissued.</li>
+        <li>The password can be reset by entering the E-mail and login account when registering.</li>
+      </ul>
+    </div>
+    <div class="col-xs-6" style="border-left:1px solid #CCC">
+  <form id="passwdform" class="form-horizontal" action="/admareg/register/reg_action.ftl">
+        <input type="hidden" name="action" value="resetPassword">
+  <div class="form-group">
+      <label class="col-xs-4 required">E-mail</label>
+    <div class="col-xs-7">
+        <input class="form-control" required="required" name="email" type="email" value="">
+    </div>
+  </div>
+  <div class="form-group">
+      <label class="col-xs-4 required">Login ID</label>
+    <div class="col-xs-7">
+        <input class="form-control" required="required" name="username" value="">
+    </div>
+  </div>
+  <div class="form-group">
+      <label class="col-xs-4 "></label>
+    <div class="col-xs-7">
+        <input class="btn btn-primary" type="submit" value="Password Reissue">
+    </div>
+  </div>
+  </form>
+    <script>
+      $("#passwdform").formValidation({
+        framework: 'zui'
+      })
+
+      .on('err.field.fv', function (e, data) {
+        if (data.fv.getSubmitButton()) {
+          data.fv.disableSubmitButtons(false);
+        }
+      })
+      .on('success.field.fv', function (e, data) {
+        if (data.fv.getSubmitButton()) {
+          data.fv.disableSubmitButtons(false);
+        }
+      })
+
+        .on('success.form.fv', function(e) {
+          e.preventDefault();
+          formAjaxSubmit(e.target, null, null);
+        });
+    </script>
+    </div>
+  </div>
+      </div>
+  </div>
+<!-- Copied from http://adma2019.neusoft.edu.cn/admareg/register/forgot.ftl by Cyotek WebCopy 1.7.0.600, 2019?12? ???, 12:05:08 -->

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Keynote Speech &#8211; ADMA 2020 Conference</title>
+	<atom:link href="http://adma2019.neusoft.edu.cn/category/keynote-speech/feed/" rel="self" type="application/rss+xml" />
+	<link>http://adma2019.neusoft.edu.cn</link>
+	<description>The 15Th International Conference on Advanced Data Mining and Applications(ADMA) On 21-23 November 2019 in Dalian, China</description>
+	<lastBuildDate>Fri, 15 Nov 2019 07:40:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+	<item>
+		<title>AI for social good</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/14/distinguished-professer-chengqi-zhang/</link>
+				<pubDate>Thu, 14 Nov 2019 07:55:45 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Keynote Speech]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=786</guid>
+				<description><![CDATA[Speaker: Distinguished Professor  Chengqi Zhang Associate Vice-President (Research Relationships China) University of Technology Sydney Chairperson of Australian Computer Society National Committee for AI General Chair of IJCAI-2024 The Title of Speech: AI for social good Abstract of Speech: AI has been successfully applied to everyday lives at an accelerating pace, and it has a great [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Speaker:</strong></p>
+
+
+
+<p>Distinguished Professor  Chengqi Zhang<gwmw style="display:none;"></p>
+
+
+
+<p>Associate Vice-President (Research Relationships China)<gwmw style="display:none;"></p>
+
+
+
+<p>University of Technology Sydney</p>
+
+
+
+<p>Chairperson of Australian Computer Society National
+Committee for AI</p>
+
+
+
+<p>General Chair of IJCAI-2024</p>
+
+
+
+<p><strong>The Title of Speech: <em>AI for social good</em> </strong></p>
+
+
+
+<p><strong>A</strong><strong>bstract of Speech:</strong><strong></strong></p>
+
+
+
+<p>AI has been successfully applied to everyday lives
+at an accelerating pace, and it has a great potential to provide tremendous
+social good in the future. In this talk, Prof Chengqi Zhang will introduce a
+brief history of AI , recent advances in AI, and the recent work that are using
+the forefront AI for social good, such as health, logistics, and agriculture.
+He will then talk about the potential use of AI in various topics that are
+essential for social good in the future. The new challenges raised around AI
+and ethics, AI and Humans will be discussed at the end.</p>
+
+
+
+<p><strong>Biography of the Speaker: <a></a></strong></p>
+
+
+
+<p>Distinguished Prof Chengqi Zhang is the Associate
+Vice President (Research Relationships China) at the University of Technology
+Sydney (UTS). He has been the Chairman of the Australian Computer Society
+National Committee for Artificial Intelligence since November 2005 till now.</p>
+
+
+
+<p>He is a worldwide recoginised research leader in the areas of data mining and machine learning. So far, a total of 342 papers have been published. He was invited to give 20 keynote speeches at international conferences. Thirty PhD students were instructed to complete their doctoral studies, and eight of them are now full professors. In 2011, he received the NSW Science and Engineering (Engineering and ICT) award and the award for UTS Vice Chancellor for Excellence in Research (Leadership). He served in the ARC College of Experts from 2012 to 2014.  Additionally, he had served as General Chair for three world top conferences, ICDM 2010, KDD 2015, and IJCAI 2024. </p>
+
+
+
+<figure class="wp-block-image"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/chengqizhang.jpg" alt="" class="wp-image-798" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/chengqizhang.jpg 361w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/chengqizhang-221x300.jpg 221w" sizes="(max-width: 361px) 100vw, 361px" /></figure>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Big Data 2.0: Future Data Computing</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/10/28/big-data-2-0-future-data-computing-2/</link>
+				<pubDate>Mon, 28 Oct 2019 00:44:46 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Keynote Speech]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=684</guid>
+				<description><![CDATA[Guoren Wang, Beijing Institute Of Technology,China Human beings are moving from the IT era to the DT (data technology) era in which data is the most valuable resource. In terms of Big Data computing, the mainstream computing systems of Big Data represented by Hadoop, Spark and Flink have different programming models and interfaces, which focus [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p> Guoren Wang, Beijing Institute Of Technology<gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15722233625936670522727">,</gwmw>China </p>
+
+
+
+<p>Human beings are moving from the IT era to the DT (data technology) era in which data is the most valuable resource. In terms of Big Data computing, the mainstream computing systems of Big Data represented by Hadoop, Spark and Flink have different programming models and interfaces, which focus on batch or stream tasks respectively. With the development of mobile internet, the traditional cloud computing model has been unable to effectively promote the development of new applications such as smart homes and smart cities. Therefore, mixed batch &amp; stream processing, cross-domain deployments and edge computing will be the development and research trends of the future big data computing.<br>In this talk, we will first review the traditional big data computing platforms, and introduce their development history, characteristics, advantages and core issues. We then will analyze the challenges and difficulties faced by the traditional cloud computing models from the aspects of batch &amp; stream interactive computing, cross-data center computing and mobile edge computing. We finally propose the development and research trends for future data computing under the era of Big Data 2.0.<gwmw style="display:none;"></p>
+
+
+
+<p>Bio: Guoren Wang is currently a professor at Beijing Institute of Technology, a Yangtze River scholar, a recipient of the National Science Fund for Distinguished Young Scholars, a member of the expert review team of the Information Science Department of the National Natural Science Foundation of China, and a vice chair of the Database Technical Committee of the China Computer Federation. Selected as a national candidate for the National Million Talents Project, awarded the honorary title of “Young and Middle-aged Experts with Outstanding Contributions”; Received a total of 10 provincial and ministerial science and technology awards, including the Second Prize of National Science and Technology Progress Award, the First Prize of Science and Technology Progress of Liaoning Province, the Second Prize of Natural Science of Ministry of Education, and the Second Prize of Nature Science of Liaoning Province. His doctoral students won 2 national outstanding paper nomination awards, 2 outstanding doctoral theses in Liaoning Province, and 1 excellent paper of China Computer Federation; the research field is big data management and analysis; and more than 80 papers has been published in important academic conferences and journals such as SIGMOD, VLDB, ICDE, VLDB Journal, IEEE Trans. TKDE and IEEE Trans. TPDS.</p>
+
+
+
+<figure class="wp-block-image is-resized"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/09/wangguoren.jpg" alt="" class="wp-image-658" width="388" height="602" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/09/wangguoren.jpg 500w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/09/wangguoren-193x300.jpg 193w" sizes="(max-width: 388px) 100vw, 388px" /></figure>
+
+
+
+<p><gwmw style="display:none;"></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Broad and Deep Learning of Big Heterogeneous Health Data for Medical AI</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/10/28/broad-and-deep-learning-of-big-heterogeneous-health-data-for-medical-ai/</link>
+				<pubDate>Mon, 28 Oct 2019 00:27:24 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Keynote Speech]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=677</guid>
+				<description><![CDATA[Speaker: Vincent S. Tseng (National Chiao Tung University, Taiwan) Abstract In healthcare domains, large-scale heterogeneous types of data like medical images, vital signs, electronic health records (EHR), genome, etc., have been collected constantly, forming the valuable big health data. Broad and deep mining/learning of these big heterogeneous biomedical data can enable innovative Medical AI applications [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>Speaker: Vincent S. Tseng (National Chiao Tung University, Taiwan)<gwmw style="display:none;"></p>
+
+
+
+<p><strong>Abstract</strong></p>
+
+
+
+<p>In healthcare
+domains, large-scale heterogeneous types of data like medical images, vital signs,
+electronic health records (EHR), genome, etc., have been collected constantly,
+forming the valuable big health data. Broad and deep mining/learning of these big heterogeneous biomedical
+data can enable innovative Medical AI applications with rich research lines/challenges
+underlying. In this talk, I will introduce recent developments and ongoing
+projects on the above topic, especially in intelligent diagnostic decision
+support and disease early detection by using various advanced data mining/deep
+learning techniques including image analysis (for medical images), multivariate
+time-series analysis (for vital signs like ECG/EEG), patterns mining (for EHR),
+text mining (for medical notes), sensory analysis (for sensory data like air
+pollutants) as well as data fusion methods for integrated modeling. Some
+innovative applications on Medical AI with breakthrough results based on the
+developed techniques, as well as the underlying challenging issues and open
+opportunities, will also be addressed.</p>
+
+
+
+<p><strong>Speaker BioVincent S. Tseng</strong> is currently a Distinguished Professor at Department of Computer Science and Director for Institute of Data Science and Engineering in National Chiao Tung University, Taiwan. He was the Chair for IEEE Computational Intelligence Society Tainan Chapter during 2013-2015 and the President of Taiwanese Association for Artificial Intelligence during 2011-2012. Dr. Tseng has a wide variety of research interests covering data mining, machine learning, biomedical informatics, mobile sensing technologies. He has published more than 350 research papers as well as 15 patents held and filed. He has been on the editorial board for a number of top journals like IEEE Trans. Knowledge and Engineering (TKDE), IEEE Journal on Biomedical and Health Informatics (JBHI), ACM Trans. Knowledge Discovery from Data (TKDD), Data Mining and Knowledge Discovery (DMKD), and serving as organizing/program committee for leading conferences like KDD, ICDM, CIKM, PAKDD, AAAI, etc. He   the core committee and overseeing the directions/architecture of big data/AI platforms and interdisciplinary applications for various governmental and industrial units in Taiwan. He is a Distinguished Scientist Member of ACM and Senior Member of IEEE, as well as the recipient of 2014 K. T. Li Breakthrough Award, 2018 IT Elite Award, 2015 Outstanding Research Award and 2018 FutureTech Breakthrough Award by Ministry of . </p>
+
+
+
+<figure class="wp-block-image"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/mmexport1572130510587.jpg" alt="" class="wp-image-680" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/mmexport1572130510587.jpg 467w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/mmexport1572130510587-225x300.jpg 225w" sizes="(max-width: 467px) 100vw, 467px" /></figure>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<figure class="wp-block-image"><img alt=""/></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image"><img src="blob:http://adma2019.neusoft.edu.cn/c032263b-7725-4971-9eba-88c966281989" alt=""/><figcaption><gwmw style="display:none;"></figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p><gwmw style="display:none;"></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Network embedding-based Geo-social Recommendation</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/09/17/network-embedding-based-geo-social-recommendation/</link>
+				<pubDate>Tue, 17 Sep 2019 02:03:55 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Keynote Speech]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=660</guid>
+				<description><![CDATA[Hongzhi Yin, The University of Queensland Abstract: The rapid development of mobile Internet, location acquisition and 5G communication technologies has fostered a profusion of geo-social networks (e.g., Foursquare, Yelp and Google Place). They provide users an online platform to check-in at points of interests (e.g., cinemas, galleries and hotels) and share their life experiences in [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p>                                 </p>
+
+
+
+<p>Hongzhi Yin, The University of Queensland<gwmw style="display:none;"></p>
+
+
+
+<p>Abstract: The rapid development of mobile Internet, location acquisition and 5G communication technologies has fostered a profusion of geo-social networks (e.g., Foursquare, Yelp and Google Place). They provide users an online platform to check-in at points of interests (e.g., cinemas, galleries and hotels) and share their life experiences in the physical world via mobile devices. The new dimension of location implies extensive knowledge about user behaviours and interests by bridging the gap between online social networks and the physical world. It is crucial to develop new geo-social recommendation services for both individual users and groups to explore the new places, attend new events and find their potential partners to attend these events together. This keynote will introduce three emerging geo-social recommendation paradigms and their new challenges:  spatial item recommendation for mobile users, spatial item recommendation for dynamic groups, and joint spatial item and partner recommendation.  This keynote will also explore how to adopt and advance the network embedding techniques to address the new challenges in the three geo-social recommendation services.  <gwmw style="display:none;"></p>
+
+
+
+<p>Short bio: &#8211; Dr Hongzhi Yin is a senior lecturer (equivalent to Associate Professor in North America) with the University of Queensland and the winner of Australian <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15686855505402781969586">Discovery Early</gwmw> Career Researcher Award (equivalent to <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15686855505409921805561">NSF CAREER award</gwmw> in North America). He has been focusing on creating big commercial and social values from big user data and sensor data by developing innovative machine learning, data mining and database techniques, including deep learning, spatial-temporal data mining, probabilistic graphical model, recommender systems, social media analytics and mining, time series data mining and prediction, network embedding and mining, and smart sales and smart transportation. He has published 110+ papers and won 5 Best Paper Awards such as ICDE&#8217;19 Best Paper Award and ACM Annual Best Computing Award as the main author, and most of his research <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15686855583438322284833">works</gwmw> <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15686855583436830578644">have been published</gwmw> in reputed journals and top international <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15686855583432376451823">conferences including</gwmw> VLDB Journal, ACM TOIS, IEEE TKDE, ACM TKDD, ACM TIST, SIGMOD, SIGKDD, PVLDB, ICDE, AAAI, IJCAI, SIGIR, WWW, ICDM, ACM Multimedia and CIKM. For more details about Dr. Hongzhi Yin, please refer to his homepage <a href="https://sites.google.com/site/dbhongzhi/">https://sites.google.com/site/dbhongzhi/</a>.</p>
+
+
+
+<p><img class="wp-image-661" style="width: 150px;" src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/09/yinhongzhi.jpg" alt="" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/09/yinhongzhi.jpg 517w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/09/yinhongzhi-194x300.jpg 194w" sizes="(max-width: 517px) 100vw, 517px" /><gwmw style="display:none;"></p>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<p><gwmw style="display:none;"></p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

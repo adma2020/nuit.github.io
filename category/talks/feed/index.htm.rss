@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Talks &#8211; ADMA 2020 Conference</title>
+	<atom:link href="http://adma2019.neusoft.edu.cn/category/talks/feed/" rel="self" type="application/rss+xml" />
+	<link>http://adma2019.neusoft.edu.cn</link>
+	<description>The 15Th International Conference on Advanced Data Mining and Applications(ADMA) On 21-23 November 2019 in Dalian, China</description>
+	<lastBuildDate>Mon, 11 Nov 2019 12:28:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+	<item>
+		<title>Dr. Guojie Song: Network Representation Learning</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/dr-guojie-song-network-representation-learning/</link>
+				<pubDate>Mon, 11 Nov 2019 12:28:25 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=779</guid>
+				<description><![CDATA[Abstract:&#160;Feature engineering is one of the most important parts of machine learning task. As a most universal format of data existence, such as social network, information network etc, information networks have been widely studied within a broad scope of machine learning. Network Representation Learning (NRL) aims to project network nodes (or other entities) into a [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Abstract:</strong>&nbsp;Feature engineering is one of the most important parts of machine learning task. As a most universal format of data existence, such as social network, information network etc, information networks have been widely studied within a broad scope of machine learning. Network Representation Learning (NRL) aims to project network nodes (or other entities) into a low-dimensional vector space while preserving general proximity between nodes, and has become a hot topic in data mining and machine learning. In this talk, I will first overview the basic concepts of NRL, and give an introduction about our recent advancements in such field, such as tag embedding, domain adaptive network embedding, and landmark based network embedding etc.</p>
+
+
+
+<p><strong>Biography<gwmw class="ginger-module-highlighter-mistake-anim ginger-module-highlighter-mistake-type-3" id="gwmw-15734751943000774890458">：</gwmw></strong>Guojie Song is an associate professor in the School of Electronics Engineering and Computer Science at Peking University. His research interests mainly include data mining and machine learning on network data, such as social network analysis, transportation network analysis etc. He has published 100+ papers, and more than 50+ paper published at leading journals and conferences, including TKDE, TPDS, TITS, TKDD, AAAI, IJCAI, CIKM, ICDM etc. He served as PC member and Senior PC member of AI related top conferences. His research results have received three awards from ministry and provinces in China, such as the first prize of Science and Technology award of China Highway Society (2012, 2013) and the Second Prize of Shanxi Science and Technology Award (2012).</p>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<figure class="wp-block-image"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/Guojie-Song.jpg" alt="" class="wp-image-733"/></figure>
+
+
+
+<p><gwmw style="display:none;"></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Dr. Yong Xiang: Privacy Protection in Practical Applications</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/dr-yong-xiang-privacy-protection-in-practical-applications/</link>
+				<pubDate>Mon, 11 Nov 2019 12:26:58 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=777</guid>
+				<description><![CDATA[Presenter: Yong Xiang Abstract： Privacy protection is an emerging and important issue in modern information era. In this talk, I will first introduce the concept and background of privacy protection. Then I will outline the potential research themes in the area of privacy protection. After that, more details about these research themes will be presented in [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Presenter: </strong>Yong Xiang<gwmw style="display:none;"></p>
+
+
+
+<p><strong>Abstract：</strong></p>
+
+
+
+<p>Privacy protection is an emerging and important issue in modern information era. In this talk, I will first introduce the concept and background of privacy protection. Then I will outline the potential research themes in the area of privacy protection. After that, more details about these research themes will be presented in relation to some practical applications, including privacy protection in biometric authentication systems, Internet of Things, and big data. Current challenges and future research will also be discussed along these research themes.&nbsp;</p>
+
+
+
+<p><strong>Bio：</strong></p>
+
+
+
+<p>Yong Xiang is a Professor at the School of Information Technology, Deakin University, Australia. He is also the Director of Deakin-Southwest University (SWU) Joint Research Centre on Big Data, the Director of Data to Intelligence Research Centre, and the Director of Deakin Blockchain Innovation Lab. He was the Associate Head of School (Research) (2013-2018) and the Director of Artificial Intelligence and Data Analytics Research Cluster (2013-2019). He has obtained many research grants, including 5 Discovery and Linkage grants from the Australian Research Council (ARC). He has published 5 monographs, over 130 refereed journal articles (mainly in IEEE journals), and numerous conference papers. Some of his research results have been commercialised. His current research interests include information security and privacy, signal and image processing, data analytics and machine intelligence, Internet of Things, and blockchain. Professor Xiang was a member of the ARC Research Evaluation Committee (Mathematics, Information and Computing Sciences), evaluating the Excellence in Research for Australia (ERA) in 2018. He is a Senior Area Editor of IEEE Signal Processing Letters and an Associate Editor of IEEE Access. He was an Associate Editor of IEEE Signal Processing Letters. He served as Guest Editor for several journals, such as <a>IEEE Transactions on Industrial Informatics, IEEE Multimedia Magazine, </a>etc. He has been invited to give keynote speeches and chair committees in many international conferences, review papers for numerous international journals and conferences, chair technical sessions in conferences, and assess grant applications for the ARC. Professor Xiang is a senior member of the IEEE.</p>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<figure class="wp-block-image"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/yong-xiang.jpg" alt="" class="wp-image-688" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/yong-xiang.jpg 332w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/yong-xiang-262x300.jpg 262w" sizes="(max-width: 332px) 100vw, 332px" /></figure>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Dr. Senzhang Wang: AI Empowered Spatio-Temporal Data Mining for Smart City: Challenges, Solutions, and Applications</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/dr-senzhang-wang-ai-empowered-spatio-temporal-data-mining-for-smart-city-challenges-solutions-and-applications/</link>
+				<pubDate>Mon, 11 Nov 2019 12:26:06 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=775</guid>
+				<description><![CDATA[Abstract: With the fast development of various positioning techniques such as Global Position System (GPS), mobile devices and remote sensing, spatio-temporal data generated in urban areas has become increasingly available nowadays. Mining valuable knowledge from spatio-temporal data is critically important for better design of smart city applications, such as human mobility monitoring, smart transportation, urban [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Abstract:</strong></p>
+
+
+
+<p>With the fast development of various positioning techniques such as Global Position System (GPS), mobile devices and remote sensing, spatio-temporal data generated in urban areas has become increasingly available nowadays. Mining valuable knowledge from spatio-temporal data is critically important for better design of smart city applications, such as human mobility monitoring, smart transportation, urban planning, public safety, and environmental management. As the number, volume and resolution of spatio-temporal datasets increase rapidly, traditional data mining methods, especially statistics-based methods for dealing with such data are becoming overwhelmed. Recently, with the great success of AI techniques, especially deep learning methods, various AI techniques have been widely applied in analyzing rich spatio-temporal data generated in urban areas. In this tutorial, I will present our recent research on AI empowered spatio-temporal data mining. First, I will introduce the new challenges and opportunities of applying AI techniques to address various spatio-temporal data mining tasks in general. Then I will summarize a general framework to show the pipeline of AI empowered spatio-temporal data mining, followed by several examples illustrating how AI techniques including both shallow models and deep learning models can be utilized in the applications of demand-supply prediction in on-demand services, urban traffic prediction and urban crowd flow prediction. Finally, I will conclude the limitations of current research and point out future research directions.</p>
+
+
+
+<p><strong>About the speaker:</strong></p>
+
+
+
+<p>Dr. Senzhang Wang is currently an associate professor at College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, and also a “Hong Kong Scholar” Postdoc Fellow at Department of Computing, The Hong Kong Polytechnic University. His main research focus is on spatio-temporal data mining, social computing, graph mining and smart city. He has published more than 60 papers in premier conferences and journals of related areas such as KDD, TKDE, ICDM, SDM, AAAI, IJCAI, CIKM, TOIS, KAIS, etc.</p>
+
+
+
+<p><gwmw style="display:none;"></p>
+
+
+
+<figure class="wp-block-image"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/王.jpg" alt="" class="wp-image-705" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/王.jpg 307w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/王-211x300.jpg 211w" sizes="(max-width: 307px) 100vw, 307px" /></figure>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Dr. Fuzhen Zhuang:The Research on Transfer Learning</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/dr-fuzhen-zhuangthe-research-on-transfer-learning/</link>
+				<pubDate>Mon, 11 Nov 2019 12:24:37 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=773</guid>
+				<description><![CDATA[Abstract:&#160;To achieve satisfying classification performance, traditional machine learning (TML) usually assumes that there are abundant labeled data with i.i.d. distribution to train a good model. However, there always lacks of labeled data and are expensive to annotate data, thus TML may fail. Fortunately, there may exist large amount of labeled data from related source domains [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Abstract:</strong>&nbsp;To achieve satisfying classification performance, traditional machine learning (TML) usually assumes that there are abundant labeled data with i.i.d. distribution to train a good model. However, there always lacks of labeled data and are expensive to annotate data, thus TML may fail. Fortunately, there may exist large amount of labeled data from related source domains but with different distributions. Along this line, Transfer Learning (TL) is proposed to adapt the knowledge from related domain to improving the performance in target domains. In this talk, I will overview the concepts of transfer learning, and recent studies of transfer learning. Then, I will introduce our efforts made on the research on transfer learning algorithms. Finally, some possible future research directions are pointed out.</p>
+
+
+
+<p><strong>Resume:</strong></p>
+
+
+
+<p>Fuzhen Zhuang is an associate professor in the Institute of Computing Technology, Chinese Academy of Sciences. His research interests include transfer learning, multi-task learning and recommendation systems. He has published more 70 papers in some prestigious refereed journals and conference proceedings, such as IEEE TKDE, IEEE TNNLS, IEEE Trans. on Cybernetics, ACM TIST, Information Sciences, Neural Networks, KDD, IJCAI, AAAI, WWW, ICDE, ACM CIKM, ACM WSDM, SIAM SDM and IEEE ICDM.<gwmw style="display:none;"></p>
+
+
+
+<figure class="wp-block-image is-resized"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/639f9fb6eb293439bd72d98ab81cb6ae-771x1024.jpg" alt="" class="wp-image-702" width="386" height="512" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/639f9fb6eb293439bd72d98ab81cb6ae-771x1024.jpg 771w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/639f9fb6eb293439bd72d98ab81cb6ae-226x300.jpg 226w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/639f9fb6eb293439bd72d98ab81cb6ae-768x1020.jpg 768w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/10/639f9fb6eb293439bd72d98ab81cb6ae.jpg 800w" sizes="(max-width: 386px) 100vw, 386px" /></figure>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Dr. Ming Zhong: An Introduction to Big Graph Analytics Approaches and Applications</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/dr-ming-zhong-an-introduction-to-big-graph-analytics-approaches-and-applications/</link>
+				<pubDate>Mon, 11 Nov 2019 12:23:11 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=771</guid>
+				<description><![CDATA[Abstract:&#160;Graph analytics, especially for the big graphs with billions of nodes and edges, is an exciting new area for big data analytics workloads. It has drawn enormous research interests, not only because many complicated real-world big data, such as social data, financial data, transportation data, crime data, biological data, etc., can be modeled as graphs, [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Abstract:</strong>&nbsp;Graph analytics, especially for the big graphs with billions of nodes and edges, is an exciting new area for big data analytics workloads. It has drawn enormous research interests, not only because many complicated real-world big data, such as social data, financial data, transportation data, crime data, biological data, etc., can be modeled as graphs, but also because the graph analytics can reveal underlying patterns in these data from the perspective of relationship or topology. In this tutorial, I will review the recent work of my group in both academic research and industrial application, including&nbsp;geo-social network analytics, diversified service composition based on graphs, attributed network embedding, and financial graph analytics.</p>
+
+
+
+<p><strong>Biography:&nbsp;</strong>Dr. Ming Zhong is currently an associate professor at School of Computer Science, Wuhan University, and is the deputy director of Hubei Provincial Engineering Research Center in Public Finance and&nbsp;Economy&nbsp;Big Data. He received his PhD and BD in Computer Science from Wuhan University, and worked at New York State University at Stony Brook, USA and Carleton University, Canada as visiting research fellow. His research interests include big data analytics, graph analytics,&nbsp;fintech, etc. He published over thirty research papers&nbsp;of&nbsp;the related topics, and was funded by NSFC, NSF of Hubei Province, Doctoral Fund of Ministry of Education, etc.</p>
+
+
+
+<figure class="wp-block-image"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/mingzhong.jpg" alt="" class="wp-image-719" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/mingzhong.jpg 286w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/mingzhong-206x300.jpg 206w" sizes="(max-width: 286px) 100vw, 286px" /></figure>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Dr. Chang-Dong Wang: Higher-Order Community Detection</title>
+		<link>http://adma2019.neusoft.edu.cn/2019/11/11/dr-chang-dong-wang-higher-order-community-detection/</link>
+				<pubDate>Mon, 11 Nov 2019 12:22:07 +0000</pubDate>
+		<dc:creator><![CDATA[adma2019]]></dc:creator>
+				<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://adma2019.neusoft.edu.cn/?p=769</guid>
+				<description><![CDATA[Abstract: Higher-order community detection has gained an increasing amount of attention in the past few years. In this tutorial, we will first introduce the definition of higher-order community detection, the existing approaches, and the advantages compared with the lower-order community detection approaches. Then, we will introduce some recent approaches for higher-order community detection, including the [&#8230;]]]></description>
+								<content:encoded><![CDATA[
+<p><strong>Abstract</strong>: Higher-order community detection has gained an increasing amount of attention in the past few years. In this tutorial, we will first introduce the definition of higher-order community detection, the existing approaches, and the advantages compared with the lower-order community detection approaches. Then, we will introduce some recent approaches for higher-order community detection, including the edge enhancement approach for overcoming the hypergraph fragmentation issue, and the harmonic motif modularity approach for multi-layer network community detection. Finally, we will briefly make a discussion on the challenges to be addressed in the future work.</p>
+
+
+
+<p><strong>Bio</strong>:</p>
+
+
+
+<p>Chang-Dong Wang received the Ph.D. degree in computer science in 2013 from Sun Yat-sen University, Guangzhou, China. He is a visiting student at University of Illinois at Chicago from Jan. 2012 to Nov. 2012. He joined Sun Yat-sen University in 2013 as an assistant professor with School of Mobile Information Engineering and now he is currently an associate professor with School of Data and Computer Science. His current research interests include machine learning and data mining. He has published over 100 scientific papers in international journals and conferences such as IEEE TPAMI, IEEE TKDE, IEEE TCYB, IEEE TNNLS, IEEE TSMC-C, IEEE/ACM TCBB, Pattern Recognition, KAIS, KDD, AAAI, IJCAI, CVPR, ICDM, CIKM, SDM, DASFAA and BIBM. His ICDM 2010 paper won the Honorable Mention for Best Research Paper Awards. He won 2012 Microsoft Research Fellowship Nomination Award. He was awarded 2015 Chinese Association for Artificial Intelligence (CAAI) Outstanding Dissertation. He is an Associate Editor in Journal of Artificial Intelligence Research (JAIR).<gwmw style="display:none;"></p>
+
+
+
+<figure class="wp-block-image is-resized"><img src="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/Chang-Dong-Wang_副本-740x1024.jpg" alt="" class="wp-image-724" width="370" height="512" srcset="http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/Chang-Dong-Wang_副本-740x1024.jpg 740w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/Chang-Dong-Wang_副本-217x300.jpg 217w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/Chang-Dong-Wang_副本-768x1062.jpg 768w, http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/11/Chang-Dong-Wang_副本.jpg 1446w" sizes="(max-width: 370px) 100vw, 370px" /></figure>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
