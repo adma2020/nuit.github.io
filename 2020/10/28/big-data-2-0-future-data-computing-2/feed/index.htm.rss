@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Big Data 2.0: Future Data Computing	</title>
+	<atom:link href="http://adma2019.neusoft.edu.cn/2019/10/28/big-data-2-0-future-data-computing-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://adma2019.neusoft.edu.cn/2019/10/28/big-data-2-0-future-data-computing-2/</link>
+	<description>The 15Th International Conference on Advanced Data Mining and Applications(ADMA) On 21-23 November 2019 in Dalian, China</description>
+	<lastBuildDate>Sun, 10 Nov 2019 23:40:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+</channel>
+</rss>
